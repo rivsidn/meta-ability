@@ -5,8 +5,8 @@
 
 ## 阅读
 
-- [AnkiDroid使用](AnkiDroid使用.md)
-
+- [AnkiDroid](AnkiDroid/README.md)
+  - [AnkiDroid使用](AnkiDroid/AnkiDroid使用.md)
 
 
 
